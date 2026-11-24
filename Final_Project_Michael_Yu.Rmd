@@ -1,0 +1,21 @@
+---
+title: "Comparing Confidence Intervals for Mortality Proportions"
+author: "Michael Yu"
+output: word_document
+---
+
+[GitHub Repository](https://github.com/shuyang9527/BIOSTAT721-Final-Project)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+## Part 1: Simulation Study
+
+## Part 2: Selection of an Interval Method
+
+## Part 3: Analysis of Mortality Data
